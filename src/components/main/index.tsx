@@ -12,7 +12,6 @@ import {
     CheckerInputImage,
     CheckerButton,
     CheckerInput,
-    FlexRow,
     ResultImage,
     ClaimButton,
     FlexColumn,
